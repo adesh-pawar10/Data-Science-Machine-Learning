@@ -1,1 +1,2 @@
-# Data-Science-Machine-Learning
+* Basic Statistis
+* Hypothesis Testing
